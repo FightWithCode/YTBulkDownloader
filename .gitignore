@@ -1,0 +1,24 @@
+# Environment
+.venv/
+__pycache__/
+*.pyc
+
+# Downloads and local state
+downloads/
+downloaded.txt
+*.part
+*.ytdl
+
+# Secrets
+cookies.txt
+*.cookies
+
+# Personal URL lists (keep the example and requirements)
+*.txt
+!urls.example.txt
+!requirements.txt
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store

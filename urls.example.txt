@@ -1,0 +1,18 @@
+# One URL per line. Blank lines and lines starting with # are ignored.
+# Videos, shorts, playlists and live streams all work.
+https://www.youtube.com/watch?v=dQw4w9WgXcQ
+https://www.youtube.com/watch?v=rs-lnZTgsME
+https://www.youtube.com/watch?v=sozMhItW9tk
+https://www.youtube.com/watch?v=Z9PUSbw7CRg
+https://www.youtube.com/watch?v=dDe644FxVP8
+https://www.youtube.com/watch?v=6jgZYJU6rUo
+https://www.youtube.com/watch?v=PgFWv_JxDUY
+https://www.youtube.com/watch?v=Qr28Pq4V6Nw
+https://www.youtube.com/watch?v=-rEfEWkziLg
+https://www.youtube.com/watch?v=mL7My3y1A1U
+https://www.youtube.com/watch?v=uPjbqR0IkWM
+https://www.youtube.com/watch?v=JqDxYb4hm2E
+https://www.youtube.com/watch?v=ido8rD-PK6A
+https://www.youtube.com/watch?v=K0WCe9l7T5Y
+https://www.youtube.com/watch?v=rIM2ALRcJgY
+https://www.youtube.com/watch?v=oFBL2ReFLTQ
